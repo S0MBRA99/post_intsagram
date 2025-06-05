@@ -1,5 +1,6 @@
 body{
     background: rgb(214, 210, 210);
+    margin: 0;
 }
 
 /* *{
@@ -52,7 +53,7 @@ body{
     display: block;
 }
 
-.footer-post p{
+.footer-post {
     background: white;
     margin: 0;
     padding: 10px;
